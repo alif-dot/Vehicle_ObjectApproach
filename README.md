@@ -2,23 +2,23 @@
 
 1. Create C# console application to take and print the following –
 
-a. Car information: Model No., Year Make, Number of Seat, Number of Gear, Number of Door, Engine Capacity in CC, Interior Design, Vehicle Type.
+   a. Car information: Model No., Year Make, Number of Seat, Number of Gear, Number of Door, Engine Capacity in CC, Interior Design, Vehicle Type.
 
-b. Motorcycle information: Model No., Year Make, Number of Gear, Starting Method, Engine Capacity in CC, Maximum Power in BPH, Maximum Torque in NM, Mileage in KMPL, Cooling, Front Brake, Rear Brake, Exterior Design, Vehicle Type.
+   b. Motorcycle information: Model No., Year Make, Number of Gear, Starting Method, Engine Capacity in CC, Maximum Power in BPH, Maximum Torque in NM, Mileage in KMPL, Cooling, Front Brake, Rear Brake, Exterior Design, Vehicle Type.
 
-c. Apply object approach of OOP.
+   c. Apply object approach of OOP.
 
- The application will follow the following instructions strictly:
+2. The application will follow the following instructions strictly:
 
-a.Principle of OOP must be followed/used to develop the application.
+   a.Principle of OOP must be followed/used to develop the application.
 
-b. TwoWheeler and FourWheeler must inherit Vehicle. Car must inherit FourWheeler and Motorcycle must inherit TwoWheeler. Vehicle cannot be instantiated. Car and Motorcycle cannot be inherited.
+   b. TwoWheeler and FourWheeler must inherit Vehicle. Car must inherit FourWheeler and Motorcycle must inherit TwoWheeler. Vehicle cannot be instantiated. Car and Motorcycle cannot be inherited.
 
-c. Interior and Exterior Design must be implemented. TwoWheeler will implement Exterior Design. FourWheeler will implement Interior Design. Interior and Exterior Designs are unlimited.
+   c. Interior and Exterior Design must be implemented. TwoWheeler will implement Exterior Design. FourWheeler will implement Interior Design. Interior and Exterior Designs are unlimited.
 
-d. Enum will be used for Vehicle Type.
+   d. Enum will be used for Vehicle Type.
 
-e. Interface implementation
+   e. Interface implementation
 
 
 ![Screenshot (11)](https://github.com/alif-dot/Vehicle_ObjectApproach/assets/62230465/5f1b907e-24e0-47f1-9c1e-1632f3e95358)
