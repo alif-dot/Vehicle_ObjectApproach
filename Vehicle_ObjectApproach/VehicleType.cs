@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Vehicle_ObjectApproach
+{
+    enum VehicleType
+    {
+        TwoWheeler = 2,
+        ThreeWheeler = 3,
+        FourWheeler = 4
+    }
+
+}
